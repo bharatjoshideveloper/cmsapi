@@ -1,0 +1,7 @@
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.csproj.AssemblyReference.cache
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.AssemblyInfoInputs.cache
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.AssemblyInfo.cs
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.csproj.CoreCompileInputs.cache
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net\Mvc_CmsWebapi\Mvc_CmsWebapi\obj\Release\net6.0\Mvc_CmsWebapi.MvcApplicationPartsAssemblyInfo.cache
