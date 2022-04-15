@@ -16,7 +16,7 @@ namespace Mvc_CmsWebapi.RepositoryLayer.Contact
         }
         public async Task<ContactResponse> Addcontact(Request<ContactRequest> request)
         {
-            //add contact
+            //add 
             ContactResponse response = new ContactResponse();
                 response.message = "success";
                 response.success = true;
